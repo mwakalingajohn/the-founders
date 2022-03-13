@@ -1,0 +1,13 @@
+{
+  "name": "thefounders",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/styles.css -o ./src/styles.out.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
